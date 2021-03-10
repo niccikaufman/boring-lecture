@@ -1,20 +1,22 @@
-h2.intro {
+h1,h2 {
+  text-align: center;
+  color: darkcyan;
+}
+
+.important {
+  color: darkred;
+}
+
+.unimportant {
+  color: darkblue;
+}
+
+.highlight {
   font-style: italic;
-  font-size: 22pt;
-  text-align: center;
 }
 
-h1 {
-  text-align: center;
-}
-
-p.intro {
-  font-size: 12pt;
-  font-style: oblique;
-}
-
-img.intro {
-  width: 300px;
-  height: 300px;
-  margin-left: 35%;
+img {
+  width: 500px;
+  height: 500px;
+  margin-left: 30%;
 }
